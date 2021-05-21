@@ -2,5 +2,6 @@ red
 yellow
 blue
 green 
-pink
-purple
+orange
+indigo 
+violet
